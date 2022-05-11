@@ -1,4 +1,4 @@
-<H1>COVID-19 DASHBOARD USING PYTHON DASH<H1>
+<H1> COVID-19 DASHBOARD USING PYTHON DASH <H1>
 
 The COVID-19 has become a major concern to the global community since January 2021. COVID-19 is a contagious disease 
 caused by the SARS-Cov-2 virus. It was first discovered in Wuhan in China. There are four major variants for COVID-19 
