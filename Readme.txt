@@ -1,4 +1,4 @@
-<H1> COVID-19 DASHBOARD USING PYTHON DASH <H1>
+COVID-19 DASHBOARD USING PYTHON DASH
 
 The COVID-19 has become a major concern to the global community since January 2021. COVID-19 is a contagious disease 
 caused by the SARS-Cov-2 virus. It was first discovered in Wuhan in China. There are four major variants for COVID-19 
@@ -14,5 +14,7 @@ The dashboard can be accessed using : https://ginu-covid19-dashboard.herokuapp.c
 The datasets are collected from different websites and the links to that is provided in the Home page of the app. Additional information about the continets have been added to the vaccination data for visualization.
 The code used for building the app and cleaning is uploaded in the Git repository.
 
-
+links to datasets :
+https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
+https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
 
