@@ -8,11 +8,14 @@ almost 251 million confirmed COVID-19 cases, including 5 million deaths, are the
 
 This dashboard gives information about the Covid-19 cases, deaths and covid vaccination numbers around the world.
 The dashboard is build using the python, plotly, dash and bootstrap for the acadamic purpose of Masters in Data Analytics Course. And it is deployed to Heroku.com.
-The dashboard can be accessed using : https://ginu-covid19-dashboard.herokuapp.com/
 
 
 The datasets are collected from different websites and the links to that is provided in the Home page of the app. Additional information about the continets have been added to the vaccination data for visualization.
 The code used for building the app and cleaning is uploaded in the Git repository.
+
+The code folder contains the code used for building each page of the dashboard and it is done in Spyder. The code is executed using anaconda command prompt and the link is copied to web browser. After that the completed dashboard is deployed to Heroku.
+
+The dashboard can be accessed using : https://ginu-covid19-dashboard.herokuapp.com/
 
 links to datasets :
 https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
