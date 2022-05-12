@@ -1,0 +1,5 @@
+Heroku : https://ginu-covid19-dashboard.herokuapp.com/
+
+Main source link: https://github.com/owid/covid-19-data
+Link to the COVID-19 dataset: https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
+Link to the vaccination dataset:   https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv
